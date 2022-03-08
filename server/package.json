@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is the Backend projecto to the Alkemy Full-Stack JavaScript Challenge, for some issues find me on Gmail as emanuelconstancio.dev@gmail.com or Lindkedin as https://www.linkedin.com/in/emanuel-constancio/, and also below you could find  my GitHub profile:  https://github.com/EmanuelConstanciodev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Constancio",
+  "license": "ISC"
+}
